@@ -1,4 +1,4 @@
-# ***Accenture-Client-Retention-Growth-Analytics***
+# ***Accenture Client Retention Growth Analytics***
 
 ### 📖 ***Introduction***: A Data-Driven Approach to Problem-Solving
 After gaining expertise in data analytics, I wanted to apply my skills to solve a real-world business challenge. To achieve this, I turned to ChatGPT for insights into pressing issues faced by Accenture. Among the suggested challenges, client retention and growth stood out as a critical factor for sustained success.
